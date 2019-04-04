@@ -724,7 +724,9 @@ $translations = array(
   'Game Schedule'=>
   '游戏时间表',
   'Game Start Year'=>
-  '游戏开始（年）',
+  '游戏开始于（年）',
+  'Game End Year'=>
+  '游戏结束于（年）',
   'Month'=>
   '月',
   'Day'=>
