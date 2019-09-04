@@ -42,3 +42,12 @@ chown www-data:www-data /var/cache/hhvm/hhvm.hhbc
 service hhvm start
 service nginx restart
 ```
+
+# 完整虚拟机
+
+1. 虚拟机文件为ESXi6.5导出
+2. 使用时需要重新设置虚拟机的IP地址
+3. 虚拟机为Ubuntu Desktop 16.04
+
+完整虚拟机下载地址【Ubuntu 16.04】
+https://cloud.0x20h.com
